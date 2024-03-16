@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leezcak
-- 👀 I’m interested in coding and website design
-- 🌱 I’m currently learning R, PHP, Java, Javascript, etc.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data analysis projects!
+- 💞️ I’m currently learning R, PHP, Java, Javascript, etc.
 - 📫 Reach me via email hmynmsrnl@gmail.com
 
 <!---
