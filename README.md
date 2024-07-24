@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Irene Lee
-- 👀 I’m interested in data analysis projects!
+- 👀 You can look at my data analysis/visualisation projects here!
 - 📫 Please reach me via email hmynmsrnl@gmail.com
 
 <!---
